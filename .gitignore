@@ -1,0 +1,17 @@
+.env
+*.env
+config_local.py
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.session
+*.session-journal
+.vscode/
+.idea/
+*.log
+
+data/*.db
+data/*.db-journal
+data/*.db-wal
+data/*.db-shm

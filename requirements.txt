@@ -1,0 +1,2 @@
+pyrotgfork[fast]
+python-dotenv
